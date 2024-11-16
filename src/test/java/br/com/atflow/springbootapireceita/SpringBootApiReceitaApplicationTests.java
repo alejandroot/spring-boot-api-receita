@@ -1,4 +1,4 @@
-package br.com.atflow.spring_boot_api_receita;
+package br.com.atflow.springbootapireceita;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
